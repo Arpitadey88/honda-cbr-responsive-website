@@ -1,0 +1,23 @@
+body{
+    background-color: azure;
+}
+h1{
+    font-size: 50px;
+}
+.header-bg{
+    background-color: #264653;
+}
+.clr-green{
+    color: yellowgreen;
+    font-weight: 900; 
+}
+.clr-orange{
+    color: rgb(226, 100, 54);
+    font-weight: 900;
+}
+.btn-orange{
+    background-color: rgb(226, 100, 54);
+}
+.search-bg{
+    background-color: #EBECF0;
+}
