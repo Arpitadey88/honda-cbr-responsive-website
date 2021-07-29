@@ -20,8 +20,20 @@ h2{
 .clr-blue{
     color: rgb(16, 16, 87);
 }
+.orange-border-clr{
+    border: 2px solid rgb(226, 100, 54) ;
+}
 .btn-orange{
     background-color: rgb(226, 100, 54);
+}
+.bike-img{
+    height: 290px;
+    background-color: #F1F1F1;
+    border-radius: 15px;
+    margin: 20px;
+}
+.rounded-corner{
+    border-radius: 15px;
 }
 .search-bg{
     background-color: #EBECF0;
@@ -35,4 +47,9 @@ h2{
 .card-shadow{
     border-radius: 20px;
     box-shadow:  5px 8px 10px gray;              
+}
+.custom-shadow{
+    border-radius: 20px;
+    box-shadow:  inset 3px 3px 6px gray,
+                inset -3px -3px 6px white;              
 }
