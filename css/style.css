@@ -1,5 +1,6 @@
 body{
-    background-color: azure;
+    background-color: whitesmoke;
+    overflow-x: hidden;
 }
 h1{
     font-size: 50px;
@@ -16,6 +17,9 @@ h2{
 .clr-orange{
     color: rgb(226, 100, 54);
 }
+.clr-blue{
+    color: rgb(16, 16, 87);
+}
 .btn-orange{
     background-color: rgb(226, 100, 54);
 }
@@ -26,5 +30,9 @@ h2{
     filter: grayscale(100%);
 } 
 .rounded-card{
-    border-radius: 10px;
+    border-radius: 15px;
+}
+.card-shadow{
+    border-radius: 20px;
+    box-shadow:  5px 8px 10px gray;              
 }
